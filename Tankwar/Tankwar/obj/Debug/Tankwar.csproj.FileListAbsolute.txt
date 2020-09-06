@@ -1,0 +1,10 @@
+E:\4. PROJECTS\Visual_Studio_Projects\TankGame\Tankwar\Tankwar\bin\Debug\Tankwar.exe.config
+E:\4. PROJECTS\Visual_Studio_Projects\TankGame\Tankwar\Tankwar\bin\Debug\Tankwar.exe
+E:\4. PROJECTS\Visual_Studio_Projects\TankGame\Tankwar\Tankwar\bin\Debug\Tankwar.pdb
+E:\4. PROJECTS\Visual_Studio_Projects\TankGame\Tankwar\Tankwar\obj\Debug\Tankwar.Form1.resources
+E:\4. PROJECTS\Visual_Studio_Projects\TankGame\Tankwar\Tankwar\obj\Debug\Tankwar.Properties.Resources.resources
+E:\4. PROJECTS\Visual_Studio_Projects\TankGame\Tankwar\Tankwar\obj\Debug\Tankwar.csproj.GenerateResource.cache
+E:\4. PROJECTS\Visual_Studio_Projects\TankGame\Tankwar\Tankwar\obj\Debug\Tankwar.csproj.CoreCompileInputs.cache
+E:\4. PROJECTS\Visual_Studio_Projects\TankGame\Tankwar\Tankwar\obj\Debug\Tankwar.exe
+E:\4. PROJECTS\Visual_Studio_Projects\TankGame\Tankwar\Tankwar\obj\Debug\Tankwar.pdb
+E:\4. PROJECTS\Visual_Studio_Projects\TankGame\Tankwar\Tankwar\obj\Debug\Tankwar.csprojAssemblyReference.cache
